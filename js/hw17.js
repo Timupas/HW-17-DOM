@@ -1,8 +1,3 @@
-//1
-const inputEl = document.querySelector(".textinput");
-const btnEl = document.querySelector(".btn");
-
-
 //2
 const imageEl = document.querySelector(".image");
 imageEl.src = "./img/2.jpg";
